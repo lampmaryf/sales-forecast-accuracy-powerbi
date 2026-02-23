@@ -28,3 +28,8 @@ The dashboard uses an analytics-style dimensional model with separate tables for
 
 ## Notes
 In a production environment, this dashboard would be powered by a centralized data warehouse with scheduled refreshes and shared metric definitions to ensure consistency across use cases.
+
+## Screenshots
+![Overview](screenshots/overview.png)
+![Forecast Accuracy](screenshots/forecast_accuracy.png)
+![Customer & Subcategory Breakdown](screenshots/customer_and_subcategory_breakdown.png)
